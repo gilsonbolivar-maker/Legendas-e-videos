@@ -1,0 +1,4 @@
+# Netlify: publica a raiz (o app é o index.html)
+[build]
+  publish = "."
+  command = ""
